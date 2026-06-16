@@ -1,2 +1,5 @@
-> [!NOTE]
-> These are just all the old versions if you want to go back to a previous version that you prefered.
+> [!TIP]
+> **Missing the old version?**
+>
+> Every previous release is archived below. If you prefer to play a legacy version then download here.
+> 
